@@ -1,2 +1,2 @@
 # operations-c
-Simples menu de operação em C.
+Simples menu de operações em C.
