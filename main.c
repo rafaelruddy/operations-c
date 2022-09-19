@@ -22,10 +22,10 @@ int menu(void) {
 // scan values of n1 and n2 using pointers
 int scanNum(int *n1, int *n2) {
   printf("Digite o numero 1: ");
-  scanf("%d", *&n1);
+  scanf("%d", n1);
 
   printf("Digite o numero 2: ");
-  scanf("%d", *&n2);
+  scanf("%d", n2);
   return 0;
 }
 
